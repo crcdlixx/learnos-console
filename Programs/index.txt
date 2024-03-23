@@ -1,0 +1,2 @@
+配置助手 \程序\copy.py
+anaconda助手 \程序\anaconda-help.py
